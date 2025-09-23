@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Data Analyst Intern",
+    "skills": ["Python", "Excel", "SQL"],
+    "location": "Delhi",
+    "sector": "Data"
+  },
+  {
+    "title": "Web Development Intern",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "location": "Bangalore",
+    "sector": "IT"
+  },
+  {
+    "title": "Content Writing Intern",
+    "skills": ["English", "Writing", "SEO"],
+    "location": "Remote",
+    "sector": "Media"
+  }
+  {
+    "title": "yapp yappp yappp",
+    "skills": ["yoyo", "haha", "hmmm"],
+    "location": "Remote",
+    "sector": "Media"
+  }
+]
