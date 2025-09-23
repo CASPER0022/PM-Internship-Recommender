@@ -1,0 +1,19 @@
+# Node.js
+/node_modules
+/dist
+/coverage
+/logs
+
+# Environment files
+/.env
+
+# macOS
+.DS_Store
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
