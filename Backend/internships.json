@@ -1,26 +1,102 @@
 [
   {
-    "title": "Data Analyst Intern",
-    "skills": ["Python", "Excel", "SQL"],
-    "location": "Delhi",
-    "sector": "Data"
+    "jobTitle": "Software Development Intern",
+    "company": "Tech Mahindra",
+    "position": "Full Stack Developer Intern",
+    "description": "Work on cutting-edge web applications using React, Node.js, and MongoDB. Collaborate with senior developers to build scalable solutions for enterprise clients.",
+    "skills": ["React", "Node.js", "JavaScript", "MongoDB"],
+    "location": "Pune",
+    "duration": "6 months",
+    "stipend": "₹25,000/month"
   },
   {
-    "title": "Web Development Intern",
-    "skills": ["HTML", "CSS", "JavaScript"],
+    "jobTitle": "Data Science Intern",
+    "company": "Infosys",
+    "position": "Machine Learning Intern",
+    "description": "Analyze large datasets and build predictive models using Python and machine learning algorithms. Gain hands-on experience with AI/ML projects in healthcare domain.",
+    "skills": ["Python", "Machine Learning", "Pandas", "TensorFlow"],
     "location": "Bangalore",
-    "sector": "IT"
+    "duration": "4 months",
+    "stipend": "₹30,000/month"
   },
   {
-    "title": "Content Writing Intern",
-    "skills": ["English", "Writing", "SEO"],
-    "location": "Remote",
-    "sector": "Media"
+    "jobTitle": "Digital Marketing Intern",
+    "company": "Wipro Digital",
+    "position": "Marketing Analytics Intern",
+    "description": "Create and execute digital marketing campaigns across social media platforms. Analyze campaign performance and optimize for better ROI using data-driven insights.",
+    "skills": ["Digital Marketing", "Google Analytics", "Social Media", "SEO"],
+    "location": "Mumbai",
+    "duration": "3 months",
+    "stipend": "₹20,000/month"
   },
   {
-    "title": "yapp yappp yappp",
-    "skills": ["yoyo", "haha", "hmmm"],
+    "jobTitle": "UI/UX Design Intern",
+    "company": "Tata Consultancy Services",
+    "position": "Product Design Intern",
+    "description": "Design intuitive user interfaces for mobile and web applications. Conduct user research and create wireframes, prototypes using modern design tools.",
+    "skills": ["Figma", "Adobe XD", "User Research", "Prototyping"],
+    "location": "Chennai",
+    "duration": "5 months",
+    "stipend": "₹22,000/month"
+  },
+  {
+    "jobTitle": "Cybersecurity Intern",
+    "company": "HCL Technologies",
+    "position": "Security Analyst Intern",
+    "description": "Learn about network security, vulnerability assessment, and incident response. Work with cybersecurity teams to protect enterprise infrastructure.",
+    "skills": ["Network Security", "Ethical Hacking", "Linux", "Security Tools"],
+    "location": "Noida",
+    "duration": "6 months",
+    "stipend": "₹28,000/month"
+  },
+  {
+    "jobTitle": "Business Analyst Intern",
+    "company": "Accenture",
+    "position": "Process Improvement Intern",
+    "description": "Analyze business processes and identify improvement opportunities. Work with cross-functional teams to implement efficient solutions for client projects.",
+    "skills": ["Business Analysis", "Excel", "Process Mapping", "SQL"],
+    "location": "Hyderabad",
+    "duration": "4 months",
+    "stipend": "₹26,000/month"
+  },
+  {
+    "jobTitle": "Content Writing Intern",
+    "company": "Mindtree",
+    "position": "Technical Content Writer",
+    "description": "Create engaging technical content for blogs, documentation, and marketing materials. Research emerging technologies and translate complex concepts into accessible content.",
+    "skills": ["Technical Writing", "Content Strategy", "SEO", "Research"],
     "location": "Remote",
-    "sector": "Media"
+    "duration": "3 months",
+    "stipend": "₹18,000/month"
+  },
+  {
+    "jobTitle": "Mobile App Development Intern",
+    "company": "Zoho Corporation",
+    "position": "Android Developer Intern",
+    "description": "Develop native Android applications using Java and Kotlin. Learn mobile app architecture patterns and work on user-facing mobile products.",
+    "skills": ["Android", "Java", "Kotlin", "Mobile UI"],
+    "location": "Chennai",
+    "duration": "5 months",
+    "stipend": "₹24,000/month"
+  },
+  {
+    "jobTitle": "Cloud Computing Intern",
+    "company": "IBM India",
+    "position": "DevOps Intern",
+    "description": "Work with cloud platforms like AWS and Azure. Learn containerization, CI/CD pipelines, and infrastructure automation using modern DevOps tools.",
+    "skills": ["AWS", "Docker", "Kubernetes", "CI/CD"],
+    "location": "Bangalore",
+    "duration": "6 months",
+    "stipend": "₹32,000/month"
+  },
+  {
+    "jobTitle": "Finance Analyst Intern",
+    "company": "Deloitte",
+    "position": "Financial Planning Intern",
+    "description": "Support financial analysis and reporting activities. Learn about budgeting, forecasting, and financial modeling for enterprise clients across various industries.",
+    "skills": ["Financial Modeling", "Excel", "Financial Analysis", "PowerBI"],
+    "location": "Mumbai",
+    "duration": "4 months",
+    "stipend": "₹27,000/month"
   }
 ]
