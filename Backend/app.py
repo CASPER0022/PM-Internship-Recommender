@@ -35,7 +35,10 @@ def recommend_internships(cv_keywords):
             match_score = len(cv_keywords & required) / len(required)
         else:
             match_score = 0
-        results.append((internship, match_score))
+        # Include match score in the result
+        internship_with_score = internship.copy()
+        internship_with_score["matchScore"] = match_score
+        results.append((internship_with_score, match_score))
     results.sort(key=lambda x: x[1], reverse=True)
     return [i[0] for i in results[:5]]
 
@@ -46,6 +49,11 @@ def recommend():
     keywords = extract_keywords(text)
     recs = recommend_internships(keywords)
     return jsonify(recs)
+
+@app.route("/internships", methods=["GET"])
+def get_internships():
+    """Endpoint to get all available internships for browsing"""
+    return jsonify(internships)
 
 if __name__ == "__main__":
     app.run(debug=True)

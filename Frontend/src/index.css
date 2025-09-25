@@ -145,6 +145,15 @@ button:disabled {
   }
 }
 
+/* Text truncation utilities */
+.line-clamp-3 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+}
+
 /* Dark mode support (if needed) */
 @media (prefers-color-scheme: dark) {
   .glass {
